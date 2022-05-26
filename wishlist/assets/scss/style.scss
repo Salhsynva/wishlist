@@ -1,12 +1,18 @@
-.wish-box{
-        cursor: pointer;
-        position: relative;
-    // i{
+img{
+    max-height: 250px;
+    height: 250px !important;
+}
 
-    // }
-    #wishCount{
-        position: absolute;
-        top: -6px;
-        right: -10px;
-    }
+.wish-box{
+    position: relative;
+}
+
+.wish-box span{
+    right: -8px;
+    position: absolute;
+    top: -12px;
+}
+.wish-box i{
+    font-size: 25px;
+    color: red;
 }
