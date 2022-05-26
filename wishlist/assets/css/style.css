@@ -1,0 +1,11 @@
+.wish-box {
+  cursor: pointer;
+  position: relative;
+}
+
+.wish-box #wishCount {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+}
+/*# sourceMappingURL=style.css.map */
